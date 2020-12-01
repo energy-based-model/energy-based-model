@@ -1,6 +1,6 @@
 # Our Works on Energy-Based Models
 
-- [Energy-Based Models for Continual Learning](https://energy-based-model.github.io/Energy-Based-Models-for-Continual-Learning/)
+- [Energy-Based Models for Continual Learning](https://energy-based-model.github.io/Energy-Based-Models-for-Continual-Learning/) <br>
   Shuang Li, Yilun Du, Gido M. van de Ven, Antonio Torralba, Igor Mordatch
 - [Improved Contrastive Divergence Training of Energy Based Models](https://energy-based-model.github.io/improved-contrastive-divergence/)
   Yilun Du, Shuang Li, Joshua Tenenbaum, Igor Mordatch
