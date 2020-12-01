@@ -6,14 +6,14 @@
   Yilun Du, Shuang Li, Joshua Tenenbaum, Igor Mordatch <br>
 - [Compositional Visual Generation with Energy Based Models](https://energy-based-model.github.io/compositional-generation-inference/) <br>
   Yilun Du, Shuang Li, Igor Mordatch <br>
-  NeurIPS 2020 (Spotlight).
+  NeurIPS 2020 (Spotlight)
 - [Energy-Based Models For Atomic-Resolution Protein Conformations](https://openreview.net/pdf?id=S1e_9xrFvS) <br>
   Yilun Du, Joshua Meier, Jerry Ma, Rob Fergus, Alexander Rives <br>
   ICLR 2020 (Spotlight).
 - [Modeling Based Planning with Energy Based Models](https://arxiv.org/abs/1909.06878) <br>
   Yilun Du, Toru Lin, Igor Mordatch <br>
-  CORL 2019.
+  CORL 2019
 - [Implicit Generation and Modeling with Energy Based Models](https://papers.nips.cc/paper/8619-implicit-generation-and-modeling-with-energy-based-models) <br>
   Yilun Du, Igor Mordatch <br>
-  NeurIPS 2019 (Spotlight).
+  NeurIPS 2019 (Spotlight)
 
