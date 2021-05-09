@@ -4,6 +4,7 @@
   Shuang Li, Yilun Du, Gido M. van de Ven, Antonio Torralba, Igor Mordatch <br>
 - [Improved Contrastive Divergence Training of Energy Based Models](https://energy-based-model.github.io/improved-contrastive-divergence/) <br>
   Yilun Du, Shuang Li, Joshua Tenenbaum, Igor Mordatch <br>
+  ICML 2021
 - [Compositional Visual Generation with Energy Based Models](https://energy-based-model.github.io/compositional-generation-inference/) <br>
   Yilun Du, Shuang Li, Igor Mordatch <br>
   NeurIPS 2020 (Spotlight)
