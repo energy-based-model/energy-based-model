@@ -1,5 +1,11 @@
 # Our Works on Energy-Based Models
 
+- [Learning to Compose Visual Relations](https://energy-based-model.github.io/comet/) <br>
+  Nan Liu*, Shuang Li*, Yilun Du*, Joshua B. Tenenbaum, and Antonio Torralba <br>
+  Neurips 2021 (Spotlight)
+- [Unsupervised Learning of Compositional Energy Concepts](https://energy-based-model.github.io/comet/) <br>
+  Yilun Du, Shuang Li, Yash Sharma, Joshua B. Tenenbaum, and Igor Mordatch <br>
+  Neurips 2021
 - [Energy-Based Models for Continual Learning](https://energy-based-model.github.io/Energy-Based-Models-for-Continual-Learning/) <br>
   Shuang Li, Yilun Du, Gido M. van de Ven, Antonio Torralba, Igor Mordatch <br>
 - [Improved Contrastive Divergence Training of Energy Based Models](https://energy-based-model.github.io/improved-contrastive-divergence/) <br>
