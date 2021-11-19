@@ -1,6 +1,6 @@
 # Our Works on Energy-Based Models
 
-- [Learning to Compose Visual Relations](https://energy-based-model.github.io/comet/) <br>
+- [Learning to Compose Visual Relations](https://composevisualrelations.github.io/) <br>
   Nan Liu*, Shuang Li*, Yilun Du*, Joshua B. Tenenbaum, and Antonio Torralba <br>
   NeurIPS 2021 (Spotlight)
 - [Unsupervised Learning of Compositional Energy Concepts](https://energy-based-model.github.io/comet/) <br>
