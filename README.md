@@ -1,6 +1,6 @@
 # Our Works on Energy-Based Models
 
-A full list of our Energy-Based Models papers (https://energy-based-model.github.io/Energy-based-Model-MIT/)
+A full list of our [Energy-Based Models papers](https://energy-based-model.github.io/Energy-based-Model-MIT/)
 
 - [Learning to Compose Visual Relations](https://composevisualrelations.github.io/) <br>
   Nan Liu*, Shuang Li*, Yilun Du*, Joshua B. Tenenbaum, and Antonio Torralba <br>
